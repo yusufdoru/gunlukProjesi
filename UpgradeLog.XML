@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="gunlukProje">
+</Property><Property Name="Solution File" Value="D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje.sln">
+</Property><Property Name="Date" Value="04 Şubat 2010 Perşembe">
+</Property><Property Name="Time" Value="00:36">
+</Property></Properties><Event ErrorLevel="0" Project="gunlukProje" Source="gunlukProje\gunlukProje.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="gunlukProje" Source="gunlukProje\gunlukProje.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="gunlukProje.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="gunlukProje.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="gunlukProje" Source="gunlukProje\gunlukProje.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

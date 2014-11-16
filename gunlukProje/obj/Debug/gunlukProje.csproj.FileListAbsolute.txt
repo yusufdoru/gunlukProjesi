@@ -1,0 +1,47 @@
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\bin\Debug\gunlukProje.exe
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\bin\Debug\gunlukProje.pdb
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\obj\Debug\MainWindow.baml
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\obj\Debug\MainWindow.g.cs
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\obj\Debug\App.g.cs
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\obj\Debug\gunlukProje_MarkupCompile.cache
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\obj\Debug\gunlukProje.g.resources
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\obj\Debug\gunlukProje.exe
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\obj\Debug\gunlukProje.pdb
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\gunlukProje\gunlukProje\bin\Debug\WPFToolkit.pdb
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\obj\Debug\gunlukProje.exe
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\obj\Debug\gunlukProje.pdb
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\bin\Debug\gunlukProje.exe
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\bin\Debug\gunlukProje.pdb
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\bin\Debug\WPFToolkit.pdb
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\obj\Debug\MainWindow.baml
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\obj\Debug\MainWindow.g.cs
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\obj\Debug\App.g.cs
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\obj\Debug\gunlukProje_MarkupCompile.cache
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\obj\Debug\gunlukProje.g.resources
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\bitirilmiş projeler\gunlukProje\gunlukProje\bin\Debug\WPFToolkit.dll
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\obj\Debug\gunlukProje.exe
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\obj\Debug\gunlukProje.pdb
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\bin\Debug\gunlukProje.exe
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\bin\Debug\gunlukProje.pdb
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\bin\Debug\WPFToolkit.dll
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\bin\Debug\WPFToolkit.pdb
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\obj\Debug\MainWindow.baml
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\obj\Debug\MainWindow.g.cs
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\obj\Debug\App.g.cs
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\obj\Debug\gunlukProje_MarkupCompile.cache
+C:\Users\Yu$uF\Desktop\gunlukProje\gunlukProje\obj\Debug\gunlukProje.g.resources
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\obj\Debug\gunlukProje.exe
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\obj\Debug\gunlukProje.pdb
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\bin\Debug\gunlukProje.exe
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\bin\Debug\gunlukProje.pdb
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\bin\Debug\WPFToolkit.pdb
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\obj\Debug\gunlukProje.csprojResolveAssemblyReference.cache
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\obj\Debug\MainWindow.baml
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\obj\Debug\MainWindow.g.cs
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\obj\Debug\App.g.cs
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\obj\Debug\gunlukProje_MarkupCompile.cache
+C:\Users\YSF\Desktop\gunlukProje-yusufdoru.com\gunlukProje\obj\Debug\gunlukProje.g.resources
+C:\Users\YSF\Desktop\gunlukProjesi\gunlukProje\obj\Debug\gunlukProje.exe
